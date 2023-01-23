@@ -12,7 +12,7 @@
 
 # Amicus curiae para la Acción de Inconstitucionalidad 63/2019 :scroll:
 
-Este repositorio contiene los códigos con los que se generaron las figuras y estadísticas presentadas en el **Amicus curiae para la Acción de Inconstitucionalidad 63/2019. La Ley Nacional del Registro de Detenciones y las detenciones de las Fuerzas Armadas**.
+Este repositorio contiene los códigos con los que se generaron las figuras y estadísticas presentadas en el **Amicus curiae para la Acción de Inconstitucionalidad 63/2019. La Ley Nacional del Registro de Detenciones y las detenciones de las Fuerzas Armadas** (disponible [aquí](https://www.intersecta.org/amicus-curiae-para-la-accion-de-inconstitucionalidad-63-2019/)).
 
 En *Intersecta* hemos dedicado parte de nuestro trabajo a documentar y visibilizar las violencias que viven las personas —particularmente aquellas que pertenecen a grupos y comunidades históricamente discriminadas— en contextos militarizados. La evidencia presentada en este *Amicus* está basada en este trabajo, y muestra que las detenciones que realizan las Fuerzas Armadas se caracterizan por la arbitrariedad y la violencia, además de la falta de un registro adecuado y transparente de su actuación.
 
